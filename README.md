@@ -22,4 +22,4 @@ Developed a Chrome extension that tracks time spent on various websites, providi
 
 ![Image](https://github.com/user-attachments/assets/f91e9fc3-dd81-4ca2-89b5-0d30423e34ae)
 
-![Image](https://github.com/user-attachments/assets/26c0e879-8bef-4612-b512-dfa337cccc0d)
+![Image](https://github.com/user-attachments/assets/18de88f3-df4e-410f-ae59-88125de55e60)
